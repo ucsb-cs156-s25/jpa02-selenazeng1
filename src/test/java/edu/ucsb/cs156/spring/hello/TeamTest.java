@@ -94,4 +94,13 @@ public class TeamTest {
 
         assertEquals(team1.hashCode(), team2.hashCode(), "Equal teams should have equal hash codes");
     }
+
+    @Test
+    public void hashCode_output() {
+        Team team1 = new Team(); 
+        int output = team1.hashCode();
+        int expected_output = 1; 
+        assertEquals(expected_output, output);
+    }
+
 }
