@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s25/STARTER-selenazeng1
 
-Deployed at: https://jpa02-selenazeng1.dokku-.cs.ucsb.edu
+Deployed at: https://jpa02-selenazeng1.dokku-08.cs.ucsb.edu
 
 
 # About this repo
